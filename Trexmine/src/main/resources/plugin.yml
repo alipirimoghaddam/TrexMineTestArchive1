@@ -1,0 +1,8 @@
+name: TrexmineTest
+version: 1.0
+main: com.alizone.trexmine.test.Main
+api-version: 1.21
+commands:
+  startzombie:
+    description: Start zombie game
+    usage: /startzombie

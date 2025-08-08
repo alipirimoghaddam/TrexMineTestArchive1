@@ -1,0 +1,6 @@
+com\alizone\trexmine\test\Main.class
+com\alizone\trexmine\test\commands\StartGame.class
+com\alizone\trexmine\test\listeners\GameListener.class
+com\alizone\trexmine\test\listeners\ZombieSpawner$1$1.class
+com\alizone\trexmine\test\listeners\ZombieSpawner$1.class
+com\alizone\trexmine\test\listeners\ZombieSpawner.class
